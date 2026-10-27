@@ -1,0 +1,3 @@
+[submodule "university-fees-app"]
+	path = university-fees-app
+	url = https://github.com/Divineosinachi/university-fees-app.git
